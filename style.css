@@ -1,0 +1,41 @@
+body {background-color: rgb(175, 69, 26);}
+
+
+img {
+    position: fixed;
+    top:50%;
+    left: 50%;
+    translate: -50% -50%;
+}
+
+.stamp{
+
+    left: 90%
+}
+
+button {
+    background-color: orangered;
+}
+
+ .hide{
+        display: none;
+    }
+
+ .activated{
+    background-color: yellow;
+ }
+
+ .user-file{
+    position: fixed;
+    top: 77.5%;
+    left: 1.2%;
+ }
+
+ .rectangle {
+  height: 30px;
+  width: 300px;
+  background-color:rgb(175, 69, 26) ;
+   position: fixed;
+    top: 77%;
+    left: 1%;
+}
